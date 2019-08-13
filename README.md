@@ -5,4 +5,4 @@ while(true)
       falos:-e-ket,e-bra;
       е-баллы++;
   }
-  #First ever quantum operational system, working on Cetlyn automaton and frame of honey bees.
+  #First ever quantum operational system, working on Tsetlin automaton and frame of honey bees and maybe clover honey from bumblebees.
